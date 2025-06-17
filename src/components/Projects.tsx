@@ -8,11 +8,21 @@ export const Projects = () => {
       title: "Eduswap",
       description: "A comprehensive peer-to-peer education platform featuring secure Firebase authentication, real-time data synchronization with Firestore, and an intuitive React.js interface for seamless learning experiences.",
       tech: ["React.js", "Firebase", "Firestore", "Authentication", "CSS3"],
-      github: "https://github.com/sandhiajaykumar/eduswap",
+      github: "https://github.com/sandhiajaykumar/eduswap-main",
       gradient: "from-blue-500 to-purple-600",
       bgGradient: "from-blue-50 to-purple-50",
       icon: "🎓",
       features: ["Real-time Chat", "User Authentication", "Resource Sharing"]
+    },
+    {
+      title: "Petrol Estimation Tracker",
+      description: "A web application that gives the amount that required to complete a trip based on starting point and destination point ",
+      tech: [ "Express.js", "React.js", "Node.js", "Free maps APIs"],
+      github: "https://github.com/sandhiajaykumar/Petrol-estimation-tracker",
+      gradient: "from-green-500 to-blue-600",
+      bgGradient: "from-green-50 to-blue-50",
+      icon: "🛒",
+      features: ["Shopping Cart", "Payment Gateway", "Admin Dashboard"]
     },
     {
       title: "E-Commerce Application",

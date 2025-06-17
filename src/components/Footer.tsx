@@ -113,9 +113,7 @@ export const Footer = () => {
           <div className="border-t border-gray-700 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-6">
               <div className="flex items-center gap-2 text-gray-400">
-                <span>© 2024 Sandhi Ajay Kumar. Made with</span>
-                <Heart className="w-4 h-4 text-red-400 animate-pulse" />
-                <span>using React & Tailwind CSS</span>
+                <span>© 2024 Sandhi Ajay Kumar</span>
               </div>
               
               {/* Back to Top Button */}
